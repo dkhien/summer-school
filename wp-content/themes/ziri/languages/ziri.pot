@@ -1,0 +1,793 @@
+# Copyright (C) 2023 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ziri 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2023-09-29 08:34:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/ajax-functions.php:77
+msgid "Theme"
+msgstr ""
+
+#: inc/ajax-functions.php:90
+msgid "Security Error, Please reload the page."
+msgstr ""
+
+#: inc/ajax-functions.php:93
+msgid "Security Error, Need higher Permissions to install plugin."
+msgstr ""
+
+#: inc/ajax-functions.php:151
+msgid "Error, plugin could not be installed, please install manually."
+msgstr ""
+
+#: inc/custom-functions.php:15
+msgid "Button BG Primary"
+msgstr ""
+
+#: inc/custom-functions.php:23
+msgid "Button Outline"
+msgstr ""
+
+#: inc/custom-functions.php:31
+msgid "Button Style no Background"
+msgstr ""
+
+#: inc/custom-functions.php:39
+msgid "Small Image"
+msgstr ""
+
+#: inc/custom-functions.php:46
+msgid "Small Font"
+msgstr ""
+
+#: inc/custom-functions.php:53
+msgid "Large Font"
+msgstr ""
+
+#: inc/custom-functions.php:60
+msgid "Show two lines"
+msgstr ""
+
+#: inc/custom-functions.php:67
+msgid "Show three lines"
+msgstr ""
+
+#: inc/custom-functions.php:75
+msgid "Box Shadow One"
+msgstr ""
+
+#: inc/custom-functions.php:83
+msgid "Box Shadow Two"
+msgstr ""
+
+#: inc/custom-functions.php:91
+msgid "Service Bg Color"
+msgstr ""
+
+#: inc/custom-functions.php:99 inc/custom-functions.php:179
+#: inc/custom-functions.php:187
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/custom-functions.php:107
+msgid "Slide Up Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:115
+msgid "Slide Down Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:123
+msgid "Slide Left Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:131
+msgid "Slide Right Fade In Animation"
+msgstr ""
+
+#: inc/custom-functions.php:139
+msgid "Style for 404 Search"
+msgstr ""
+
+#: inc/custom-functions.php:147
+msgid "Testimonials Blocquote"
+msgstr ""
+
+#: inc/custom-functions.php:155
+msgid "Team Detail"
+msgstr ""
+
+#: inc/custom-functions.php:163
+msgid "Expert Image"
+msgstr ""
+
+#: inc/custom-functions.php:171
+msgid "Testimonials Image"
+msgstr ""
+
+#: inc/custom-functions.php:195
+msgid "Mob 2 Col"
+msgstr ""
+
+#: inc/custom-functions.php:203
+msgid "Mob 3 Col"
+msgstr ""
+
+#: inc/custom-functions.php:211 inc/custom-functions.php:235
+#: inc/custom-functions.php:251
+msgid "Mobile Justify Right"
+msgstr ""
+
+#: inc/custom-functions.php:219 inc/custom-functions.php:243
+#: inc/custom-functions.php:258
+msgid "Mobile Justify Left"
+msgstr ""
+
+#: inc/custom-functions.php:227
+msgid "Hide in Mobile"
+msgstr ""
+
+#: inc/custom-functions.php:266
+msgid "Unstyled view"
+msgstr ""
+
+#: inc/custom-functions.php:274
+msgid "Square Shape"
+msgstr ""
+
+#: inc/custom-functions.php:282
+msgid "With Background Color"
+msgstr ""
+
+#: inc/custom-functions.php:290
+msgid "Mob Gap-20px"
+msgstr ""
+
+#: inc/custom-functions.php:298
+msgid "Mob Gap-30px"
+msgstr ""
+
+#: inc/custom-functions.php:306
+msgid "Mob Gap-40px"
+msgstr ""
+
+#: inc/custom-functions.php:314
+msgid "Mob Gap-50px"
+msgstr ""
+
+#: inc/custom-functions.php:322
+msgid "Remove padding"
+msgstr ""
+
+#: inc/custom-functions.php:330
+msgid "ClipIn Animation"
+msgstr ""
+
+#: inc/custom-functions.php:429
+msgid "Browse Ziri Starter Templates"
+msgstr ""
+
+#: inc/custom-functions.php:433
+msgid "Install Ziri Starter Templates"
+msgstr ""
+
+#: inc/custom-functions.php:436
+msgid "Activate Ziri Starter Templates"
+msgstr ""
+
+#: inc/custom-functions.php:444
+msgid "Activating"
+msgstr ""
+
+#: inc/custom-functions.php:445
+msgid "Deactivating"
+msgstr ""
+
+#: inc/custom-functions.php:446 inc/tgmpa/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: inc/custom-functions.php:447
+msgid "Deactivate"
+msgstr ""
+
+#: inc/custom-functions.php:448
+msgid "Settings"
+msgstr ""
+
+#: inc/custom-functions.php:449
+msgid "Browse Starter Templates"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Ziri"
+msgstr ""
+
+#: inc/extras.php:20 inc/extras.php:21
+msgid "Settings Page"
+msgstr ""
+
+#: inc/patterns/about/about-banner.php:9
+msgid "About Banner"
+msgstr ""
+
+#: inc/patterns/about/about-client.php:9
+msgid "About Client"
+msgstr ""
+
+#: inc/patterns/about/about-service-section.php:9
+msgid "Service With Two Rows"
+msgstr ""
+
+#: inc/patterns/block-patterns.php:26
+msgid "Ziri FSE Patterns"
+msgstr ""
+
+#: inc/patterns/block-patterns.php:27
+msgid "Patterns for sections and components"
+msgstr ""
+
+#: inc/patterns/block-patterns.php:32
+msgid "Ziri FSE Pages"
+msgstr ""
+
+#: inc/patterns/block-patterns.php:33
+msgid "Full Page layouts that can be used as templates"
+msgstr ""
+
+#: inc/patterns/contact/contact-map.php:10
+msgid "Contact Map"
+msgstr ""
+
+#: inc/patterns/frontpage/banner.php:10
+msgid "Banner"
+msgstr ""
+
+#: inc/patterns/frontpage/blog.php:11
+msgid "Blog"
+msgstr ""
+
+#: inc/patterns/frontpage/client-logo.php:10
+msgid "Client Logo"
+msgstr ""
+
+#: inc/patterns/frontpage/features.php:10
+msgid "Features"
+msgstr ""
+
+#: inc/patterns/frontpage/services-1.php:10
+msgid "Services Section One"
+msgstr ""
+
+#: inc/patterns/frontpage/services.php:10
+msgid "Services Section"
+msgstr ""
+
+#: inc/patterns/frontpage/team.php:10 inc/patterns/team/team-section.php:10
+msgid "Team Section"
+msgstr ""
+
+#: inc/patterns/frontpage/testimonial.php:10
+msgid "Testimonial"
+msgstr ""
+
+#: inc/patterns/frontpage/who-are-we.php:10
+msgid "Who Are We Section"
+msgstr ""
+
+#: inc/patterns/frontpage/why-choose-us.php:10
+msgid "Why Choose Us Section"
+msgstr ""
+
+#: inc/patterns/service/service-testimonial.php:10
+msgid "Service Testimonial"
+msgstr ""
+
+#: inc/patterns/service/service-three-row.php:10
+msgid "Service With Three Row"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-product-sidebar.php:9
+msgid "Ziri Product Sidebar"
+msgstr ""
+
+#: inc/patterns/sidebar/ziri-sidebar.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/patterns/team/team-details.php:10
+msgid "Team Details"
+msgstr ""
+
+#: inc/patterns/templates/about.php:9
+msgid "About Page"
+msgstr ""
+
+#: inc/patterns/templates/contact.php:9
+msgid "Contact Page"
+msgstr ""
+
+#: inc/patterns/templates/home.php:10
+msgid "Home Page"
+msgstr ""
+
+#: inc/patterns/templates/service.php:9
+msgid "Service Page"
+msgstr ""
+
+#: inc/patterns/templates/single-with-feature-image.php:10
+msgid "Single Page With Feature Image"
+msgstr ""
+
+#: inc/patterns/templates/team.php:9
+msgid "Team Page"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#. translators: 1: plugin name(s).
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#. translators: 1: plugin name(s).
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#. translators: 1: plugin name(s).
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#. translators: 1: plugin name(s).
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+#. translators: 1: plugin name(s).
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+#. translators: 1: plugin name(s).
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid ""
+"Everest Forms – Build Contact Forms, Surveys, Polls, Application Forms, and "
+"more with Ease!"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/ziri/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ziri is a core web vitals optimized Full Site Editing (FSE) WordPress "
+"theme. It is lightning-fast and gives unparalleled speed. Ziri is perfect "
+"for creating websites such as corporate, marketing agencies, startups, life "
+"coaches, spas, portfolios, law firms, etc. It has twenty pre-defined Block "
+"patterns. You can use these patterns to create and customize your website "
+"easily. Ziri is mobile-friendly, SEO-optimized and supports RTL. It is "
+"compatible with WooCommerce to create an online store. Plus, it is "
+"translation-ready to translate the website into your local language.Learn "
+"more about the Ziri theme at https://rarathemes.com/wordpress-themes/ziri/. "
+"Check the demo at https://rarathemes.com/previews/?theme=ziri, "
+"documentation at https://docs.rarathemes.com/docs/ziri/, and get support at "
+"https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
